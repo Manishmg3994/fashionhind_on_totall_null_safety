@@ -55,6 +55,7 @@ on:
       - auth
       - mod
       - mode
+      - starter
   push:
     branches:
     # you can add more branches 
@@ -67,6 +68,7 @@ on:
       - auth
       - mod
       - mode
+      - starter
 
 name: "Build & Release"
 jobs:
