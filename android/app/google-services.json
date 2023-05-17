@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118364698069",
+    "project_id": "fashionhind-e8cfb",
+    "storage_bucket": "fashionhind-e8cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118364698069:android:148aa979651e61d9de395c",
+        "android_client_info": {
+          "package_name": "com.cubixquirrel.fashionhind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118364698069-jn11i7jnkn57hcmisd2q09v63fo9glls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubixquirrel.fashionhind",
+            "certificate_hash": "b31fc564cd5c0e2972ee0c42820b66c2bb5ac30b"
+          }
+        },
+        {
+          "client_id": "118364698069-50pebu3vgh1pq8iglgo6vpbgretbf27a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4y9upG74YdXRo1hgVxFxZMLZdsmc9E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118364698069-50pebu3vgh1pq8iglgo6vpbgretbf27a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
