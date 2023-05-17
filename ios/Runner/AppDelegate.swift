@@ -9,7 +9,7 @@ import GoogleMaps
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
-    GMSServices.provideAPIKey("AIzaSyAm4y9upG74YdXRo1hgVxFxZMLZdsmc9E0") //TODO
+    GMSServices.provideAPIKey("AIzaSyAgr_HwtqzADnIBAKk6J5OWlTie8MClPz0") //TODO
     GeneratedPluginRegistrant.register(with: self)
     FlutterDownloaderPlugin.setPluginRegistrantCallback(registerPlugins)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
