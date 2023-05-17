@@ -88,7 +88,7 @@ jobs:
           # channel: 'stable'
       - run: flutter --version
       - run: flutter pub get
-      - run: flutter gen-l10n
+#       - run: flutter gen-l10n
 
       # you can even build aab or ipa as per your command but remember you need to change the relese code for  artifacts:  directory
       - run: flutter build apk --release --split-per-abi
