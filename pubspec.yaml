@@ -97,6 +97,7 @@ dependencies:
   badges: 
   route_transitions:
   path_provider:
+  flutter_local_notifications: ^14.1.0
   
 
 
